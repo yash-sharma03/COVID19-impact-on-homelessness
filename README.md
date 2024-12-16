@@ -1,2 +1,2 @@
-# COVID19impactonhomelessnessinCalifornia
+# COVID19 impact on homelessness in California
 ## Research Question: What was the impact of COVID-19 on the homeless populations in various counties of California, and what factors influenced these effects?
