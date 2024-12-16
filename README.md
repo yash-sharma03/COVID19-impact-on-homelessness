@@ -1,6 +1,6 @@
 # COVID19 impact on homelessness in California
 ## Research Question: What was the impact of COVID-19 on the homeless populations in various counties of California, and what factors influenced these effects?
-HYPOTHESES:
+HYPOTHESIS:
 
 1. Less affluent counties were more impacted by COVID-19 than more affluent counties, correlating with higher homelessness (heat map and regression)
 
